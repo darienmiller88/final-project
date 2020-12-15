@@ -1,7 +1,7 @@
 {
     "host": "localhost",
     "user": "root",
-    "password": "nintendowiiu000",
+    "password": "YOUR_DB_PASSWORD",
     "db": "dancing",
     "dialect": "mysql",
     "pool": {
